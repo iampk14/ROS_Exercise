@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="exercise"
+          type="exercise_3.py"
+          name="node_polygon"
+          output="screen" >
+
+    </node>
+
+</launch>

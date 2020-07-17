@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="exercise"
+          type="exercise_2.py"
+          name="node_square"
+          output="screen" >
+
+    </node>
+
+</launch>

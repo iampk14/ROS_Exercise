@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="exercise"
+          type="exercise_0_subscriber.py"
+          name="node_circle"
+          output="screen" >
+
+    </node>
+
+</launch>

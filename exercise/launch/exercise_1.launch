@@ -1,0 +1,10 @@
+<launch>
+
+    <node pkg="exercise"
+          type="exercise_1_publisher.py"
+          name="node_count"
+          output="screen" >
+
+    </node>
+
+</launch>
